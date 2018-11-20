@@ -32,6 +32,26 @@ Advanced reboot
 [SIZE="3"][B]Download[/B][/SIZE]
 [b][u][SIZE="3"][url=""]Download from SereinOS website[/url][/SIZE][/u][/b]
 
+[SIZE="4"][color=#c9023b][b]Credits[/b][/color][/SIZE]
+Our Team members
+[HIDE]
+[MENTION=6724943]Nikhil020[/MENTION]
+[MENTION=8030231]IamJoker03[/MENTION]
+[MENTION=6152318]Ovenoboyo[/MENTION]
+[MENTION=6409818]AmulyaX[/MENTION]
+[MENTION=9342352]Parth Purvesh[/MENTION]
+[/HIDE]
+
+We would like to thank all these teams for their contribution to the OpenSource Community.
+[HIDE]
+* [B][URL=https://github.com/GZOSP]GZOSP[/B][/URL]
+* [B][URL=https://github.com/OmniRom]OmniROM[/B][/URL]
+* [B][URL=https://github.com/DirtyUnicorns]DirtyUnicorns[/B][/URL]
+* [B][URL=https://github.com/crdroidandroid]CrDroid[/B][/URL]
+* [B][URL=https://github.com/AospExtended]AEX[/B][/URL]
+* [B][URL=https://github.com/PixelExperience]PE[/B][/URL]
+[/HIDE]
+
 
 [SIZE="4"][b]Donate[/b][/SIZE]
 [SIZE="3"][url="https://www.paypal.me/nikhil18"][b][u]Liked our work? Give us a beer[/u][/b][/url][/SIZE]
