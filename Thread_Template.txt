@@ -1,0 +1,46 @@
+[CENTER]
+[img]https://github.com/Serein-OS/Documents/blob/3030b0bd02927199e73a1caaa3ecb34c2ada56ab/sereinbanner.png?raw=true[/img]
+
+
+[SIZE="5"][b][color=#c9023b]SereinOS for [codename][/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#c9023b]What is this?[/color][/b][/SIZE]
+[SIZE="3"]
+[B]Serein OS is an AOSP based Custom ROM accompanied with the mostly used features and only the features we consider to be a necessary ones. [/B]
+
+[B]Based on Android 9.0
+[/B][/SIZE]
+
+[SIZE="4"][b][color=#c9023b]Features[/color][/b][/SIZE]
+[SIZE="3"]
+Omni Themes
+Battery styles
+Network traffic 
+Ambient Play
+QS configurations
+Powermenu customisations
+Media Cover art toggle on lockscreen
+Optional Roaming indicator
+Advanced reboot
+[/SIZE]
+
+[SIZE="4"][b][color=#c9023b]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing[/SIZE]
+
+
+
+[SIZE="3"][B]Download[/B][/SIZE]
+[b][u][SIZE="3"][url=""]Download from SereinOS website[/url][/SIZE][/u][/b]
+
+
+[SIZE="4"][b]Donate[/b][/SIZE]
+[SIZE="3"][url="https://www.paypal.me/nikhil18"][b][u]Liked our work? Give us a beer[/u][/b][/url][/SIZE]
+
+
+[SIZE="4"][b]Our website[/b][/SIZE]
+[SIZE="3"][url="sereinos.cf"][b][u]Check it out[/u][/b][/url][/SIZE]
+
+
+[SIZE="4"][b]Telegram channel[/b][/SIZE]
+[SIZE="3"][url="https://t.me/sereinos"][b][u]Stay tuned[/u][/b][/url][/SIZE]
+[/CENTER]
